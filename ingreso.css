@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    background-color: white;
+}
+.a{
+    color:black;
+}
+#link{
+    background-color: #C4E538;
+    width: 10%;
+    
+    color: white;
+}
+#link a{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+
+#main-header{
+    background:#009432;
+    color:white;
+    height: 80px;
+    width: 100%;
+    left:60%;
+    top:0%;
+    
+
+}
+    #main-header h4, h3{
+        
+        font-family:sans-serif;
+        color:white;
+    }
+
+    .modal-content{
+        color:#009432;
+        background-color: #C4E538
+    
+    }
+    .modal-content select {
+        width:58%;
+    }
+   
+    .modal-content input{
+        border-radius: 5px;
+    }
+
+    .modal-content button{
+        background-color: #009432;
+    }
+    .form-group{
+        color:#FFC312;        
+        width: 58%;
+    }
+
+    #main-footer{
+        background-color: #009432;
+    }
